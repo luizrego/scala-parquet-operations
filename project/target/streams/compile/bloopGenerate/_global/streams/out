@@ -1,0 +1,4 @@
+[debug] [scala-parquet-operations-build] Classpath dependencies List()
+[debug] [scala-parquet-operations-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scala-parquet-operations-build' to '/Users/lrego/Projects/scala-parquet-operations/project/.bloop/scala-parquet-operations-build.json'
+[success] Generated .bloop/scala-parquet-operations-build.json

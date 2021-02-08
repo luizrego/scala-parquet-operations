@@ -1,0 +1,6 @@
+name := "scala-parquet-operations"
+organization := "org.lrdatalab"
+version := "0.1.0-SNAPSHOT"
+scalaVersion := "2.12.12"
+libraryDependencies += "org.apache.spark" % "spark-core_2.12" % "3.0.1"
+libraryDependencies += "org.apache.spark" % "spark-sql_2.12" % "3.0.1"
